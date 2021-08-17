@@ -10,7 +10,8 @@ Support is needed for the "FANMOUNT_HOOD.stl" and "FANMOUNT_BOTTOM.stl" files.
 
 Printing angle
 
+![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_a.png?raw=true)
+![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_b.png?raw=true)
+![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_c.png?raw=true)
 
-![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_a.jpg?raw=true)
-![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_b.jpg?raw=true)
-![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_c.jpg?raw=true)
+
