@@ -18,6 +18,8 @@ Printing angle
 ![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_a.png?raw=true)
 ![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_b.png?raw=true)
 ![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_c.png?raw=true)
+
+Update feet!! 
 ![alt text](https://github.com/Niutonian/wavy_fan/blob/main/ASSEMBLY/wavy_new_feet.png?raw=true)
 
 
